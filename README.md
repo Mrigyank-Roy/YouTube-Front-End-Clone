@@ -13,7 +13,4 @@ This project is a simple front-end clone of the YouTube interface, created using
 - HTML
 - CSS
 
-## Getting Started
-
-1. Clone the repository:
 
