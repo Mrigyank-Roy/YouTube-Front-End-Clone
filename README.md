@@ -5,8 +5,7 @@ This project is a simple front-end clone of the YouTube interface, created using
 ## Features
 
 - Home page with recommended videos
-- Search functionality
-- Video playback page
+- Demonstration of header and side navigation bar
 - Responsive design for various screen sizes
 
 ## Technologies Used
@@ -18,5 +17,3 @@ This project is a simple front-end clone of the YouTube interface, created using
 
 1. Clone the repository:
 
-```bash
-git clone [https://github.com/your-username/YouTube-Front-End-Clone.git](https://github.com/Mrigyank-Roy/YouTube-Front-End-Clone)https://github.com/Mrigyank-Roy/YouTube-Front-End-Clone
